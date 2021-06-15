@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <a className="text-xl text-blue-400" href="http://ashik.amarsite.net">Ashik Rahman</a>
       </header>
     </div>
   );
